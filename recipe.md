@@ -1,4 +1,3 @@
-# Chocolate Caramel Celebration Cake
 # Chocolate Raspberry Celebration Cake
 
 This recipe makes a three-layer celebration cake with a caramel filling between each layer and vanilla frosting on the outside.
@@ -15,8 +14,6 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 - 1 cup whole milk
 - 1/2 cup vegetable oil
 - 2 teaspoons vanilla extract
-- [CAKE FLAVOUR]
-- [SPECIAL CAKE INGREDIENT]
 
 ## Filling
 
